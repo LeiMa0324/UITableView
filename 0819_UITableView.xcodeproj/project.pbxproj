@@ -14,6 +14,7 @@
 		183F41A61BF091D700BA0AB3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183F41A51BF091D700BA0AB3 /* Images.xcassets */; };
 		183F41A91BF091D700BA0AB3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 183F41A71BF091D700BA0AB3 /* LaunchScreen.xib */; };
 		183F41B51BF091D700BA0AB3 /* _819_UITableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F41B41BF091D700BA0AB3 /* _819_UITableViewTests.m */; };
+		183F41C01BF0B26600BA0AB3 /* HMstudent.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F41BF1BF0B26600BA0AB3 /* HMstudent.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		183F41AE1BF091D700BA0AB3 /* 0819_UITableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 0819_UITableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		183F41B31BF091D700BA0AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		183F41B41BF091D700BA0AB3 /* _819_UITableViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _819_UITableViewTests.m; sourceTree = "<group>"; };
+		183F41BE1BF0B26600BA0AB3 /* HMstudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMstudent.h; sourceTree = "<group>"; };
+		183F41BF1BF0B26600BA0AB3 /* HMstudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMstudent.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				183F419D1BF091D700BA0AB3 /* AppDelegate.m */,
 				183F419F1BF091D700BA0AB3 /* ViewController.h */,
 				183F41A01BF091D700BA0AB3 /* ViewController.m */,
+				183F41BE1BF0B26600BA0AB3 /* HMstudent.h */,
+				183F41BF1BF0B26600BA0AB3 /* HMstudent.m */,
 				183F41A21BF091D700BA0AB3 /* Main.storyboard */,
 				183F41A51BF091D700BA0AB3 /* Images.xcassets */,
 				183F41A71BF091D700BA0AB3 /* LaunchScreen.xib */,
@@ -221,6 +226,7 @@
 			files = (
 				183F41A11BF091D700BA0AB3 /* ViewController.m in Sources */,
 				183F419E1BF091D700BA0AB3 /* AppDelegate.m in Sources */,
+				183F41C01BF0B26600BA0AB3 /* HMstudent.m in Sources */,
 				183F419B1BF091D700BA0AB3 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
